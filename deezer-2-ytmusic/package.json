@@ -1,0 +1,14 @@
+{
+  "name": "deezer-2-ytmusic",
+  "version": "1.0.0",
+  "description": "js script to trspass Deezer playlist to YT Music",
+  "main": "deezer-2-ytmusic.js",
+  "type": "module",
+  "scripts": {},
+  "author": "Marcos Sesa Lence",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^22.8.0",
+    "typescript": "^5.4.5"
+  }
+}
